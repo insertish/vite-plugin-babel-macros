@@ -27,8 +27,6 @@ export default function macrosPlugin() {
 					],
 					require.resolve("babel-plugin-macros"),
 				],
-				babelrc: false,
-				configFile: false,
 				sourceMaps: true,
 			})
 			return result as TransformResult | null
