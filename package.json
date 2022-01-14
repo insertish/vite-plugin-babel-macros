@@ -1,7 +1,7 @@
 {
-	"name": "vite-plugin-babel-macros",
+	"name": "@insertish/vite-plugin-babel-macros",
 	"version": "1.0.5",
-	"description": "Use babel macros with vite",
+	"description": "Use babel macros with vite (and custom Babel config)",
 	"author": "MapleLeaf",
 	"license": "MIT",
 	"repository": "https://github.com/itsMapleLeaf/vite-plugin-babel-macros",
